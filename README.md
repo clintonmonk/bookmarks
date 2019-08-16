@@ -19,3 +19,12 @@ Content worth remembering.
 - [Ryan Burgess Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)
 - [Rands Leadership Slack Documentation and Resources](https://github.com/randsleadershipslack/documents-and-resources)
 - [GitLab Handbook: Leadership](https://about.gitlab.com/handbook/leadership/)
+
+## Books
+
+- [An Elegant Puzzle by Will Larson](https://www.amazon.com/dp/1732265186/)
+- [The Manager's Path by Camille Fournier](https://www.amazon.com/dp/1491973897/)
+
+## Papers
+
+- [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)

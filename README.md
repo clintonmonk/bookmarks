@@ -13,6 +13,7 @@ Content worth remembering.
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook)
 - [Principled GraphQL](https://principledgraphql.com/)
+- [Wat (video)](https://www.destroyallsoftware.com/talks/wat)
 
 ## Manager
 
